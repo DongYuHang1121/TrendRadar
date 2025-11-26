@@ -4,3 +4,16 @@
 AI
 人工智能
 模型
+AIGC
+ComfyUI
+AI大模型
+Nanobanana
+WebUI
+GPT-5
+ChatGPT
+OpenAI
+建筑设计
+Architecture
+参数化
+优秀建筑
+建筑学报
