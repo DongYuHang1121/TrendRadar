@@ -9,19 +9,14 @@ AI建筑设计工具
 智能建筑建模
 AI绿色建筑优化
 建筑性能AI模拟
-@10
 
-多模态AI
-具身智能
-AI大模型训练
-边缘AI技术
-AI芯片创新
-自动驾驶AI算法
-AI生成式设计
-AI伦理规范
-Sora视频生成进展
-AI推理加速技术
-@10
+AI建筑设计交流会议
+Architecture学术前沿与实践
+筑绘通AlphaDraw 交流活动
+AI建筑产业发展联盟
+CIBIS建筑智能化峰会
+AI赋能建筑设计研讨会
+AI in Architecture 国际会议
 
 ChatGPT
 OpenAI动态
@@ -30,27 +25,16 @@ ComfyUI
 WebUI
 nanobanana
 AI绘画工具
-@10
 
-新质生产力
-数字经济
-科技自立自强
-人工智能国家队
-双碳目标
-AI
-东数西算
-人工智能创新试验区
-国家AI发展规划
-国产AI芯片突破
-@10
-
-科技突破
-宇宙飞船
-火星探测
-火星任务
-登月计划
-星际探索
-@10
+多模态AI
+具身智能
+AI大模型训练
+边缘AI技术
+AI芯片创新
+自动驾驶AI算法
+AI生成式设计
+Sora视频生成进展
+AI推理加速技术
 
 人工智能交流会议
 世界人工智能大会
@@ -65,13 +49,7 @@ AIGC
 ComfyUI全球社区峰会
 ComfyUI全球领导力峰会
 AI大模型研讨会
-@10
 
-AI建筑设计交流会议
-Architecture学术前沿与实践
-筑绘通AlphaDraw 交流活动
-AI建筑产业发展联盟
-CIBIS建筑智能化峰会
-AI赋能建筑设计研讨会
-AI in Architecture 国际会议
-@10
+科技突破
+宇宙飞船
+星际探索
