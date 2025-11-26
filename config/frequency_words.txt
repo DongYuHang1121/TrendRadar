@@ -21,13 +21,14 @@ AI伦理规范
 Sora视频生成进展
 AI推理加速技术
 
-ChatGPT最新资讯
+ChatGPT
 OpenAI动态
 GPT-5
 ComfyUI
 WebUI
 nanobanana
 AI绘画工具
++最新资讯
 
 新质生产力
 数字经济
