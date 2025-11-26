@@ -1,3 +1,7 @@
+report:
+  sort_by_position_first: true   # 按配置顺序优先
+  max_news_per_keyword: 10
+
 建筑设计竞赛报名
 省级建筑竞赛
 市级设计大赛
